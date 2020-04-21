@@ -1,3 +1,0 @@
-The 1st text line in C file
-The 2nd text line in C file
-The 3rd text line in C file

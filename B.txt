@@ -1,0 +1,3 @@
+The 1st text line in B file
+The 2nd text line in B file
+The 3rd text line in B file
