@@ -1,0 +1,2 @@
+The 1st changed text line in C1 file
+The 2nd changed text line in C1 file
